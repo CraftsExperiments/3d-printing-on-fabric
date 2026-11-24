@@ -29,3 +29,9 @@ New to printing on fabric? Start with the [Guide to 3D Printing on Fabric](GUIDE
 ## Notes
 
 Printing results can vary depending on the fabric, printer, filament, and settings. Check each project’s notes for details and tips.
+
+## License
+
+Copyright © 2026 CraftsExperiments. Unless otherwise noted, the original models, photos, animations, and documentation in this repository are licensed under [Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE).
+
+You may use, modify, and share this material for non-commercial purposes under the license terms. When sharing, credit **CraftsExperiments**, link to this repository and the [license](https://creativecommons.org/licenses/by-nc/4.0/), and indicate any changes. Commercial use requires separate permission; contact [Crafts Experiments on Instagram](https://www.instagram.com/madebymarichka/).
